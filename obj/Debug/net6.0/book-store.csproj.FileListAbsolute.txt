@@ -1,57 +1,10 @@
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/appsettings.Development.json
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/appsettings.json
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/book-store
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/book-store.deps.json
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/book-store.runtimeconfig.json
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/book-store.dll
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/book-store.pdb
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/Microsoft.OpenApi.dll
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.csproj.AssemblyReference.cache
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.GeneratedMSBuildEditorConfig.editorconfig
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.AssemblyInfoInputs.cache
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.AssemblyInfo.cs
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.csproj.CoreCompileInputs.cache
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cs
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cache
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/staticwebassets.build.json
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/staticwebassets.development.json
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/scopedcss/bundle/book-store.styles.css
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.csproj.CopyComplete
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.dll
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/refint/book-store.dll
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.pdb
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/book-store.genruntimeconfig.cache
-/Users/orhansrydn/Desktop/asp.Net Core/web-api/book-store/obj/Debug/net6.0/ref/book-store.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/appsettings.Development.json
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/appsettings.json
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/book-store
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/book-store.deps.json
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/book-store.runtimeconfig.json
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/book-store.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/book-store.pdb
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/Microsoft.OpenApi.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.csproj.AssemblyReference.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.GeneratedMSBuildEditorConfig.editorconfig
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.AssemblyInfoInputs.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.AssemblyInfo.cs
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.csproj.CoreCompileInputs.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cs
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/staticwebassets.build.json
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/staticwebassets.development.json
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/scopedcss/bundle/book-store.styles.css
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.csproj.CopyComplete
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/refint/book-store.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.pdb
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/book-store.genruntimeconfig.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/book-store/obj/Debug/net6.0/ref/book-store.dll
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.csproj.AssemblyReference.cache
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.AssemblyInfoInputs.cache
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.AssemblyInfo.cs
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.csproj.CoreCompileInputs.cache
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cs
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cache
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/appsettings.Development.json
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/appsettings.json
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/book-store
@@ -74,13 +27,6 @@
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.csproj.AssemblyReference.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.GeneratedMSBuildEditorConfig.editorconfig
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.AssemblyInfoInputs.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.AssemblyInfo.cs
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.csproj.CoreCompileInputs.cache
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cs
-/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.MvcApplicationPartsAssemblyInfo.cache
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/staticwebassets.build.json
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/staticwebassets.development.json
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/scopedcss/bundle/book-store.styles.css
