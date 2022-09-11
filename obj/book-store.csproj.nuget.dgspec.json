@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\orhan\\Desktop\\project\\book-store.csproj": {}
+    "C:\\Users\\orhan\\Desktop\\project\\book-store.csproj": {}
   },
   "projects": {
-    "c:\\Users\\orhan\\Desktop\\project\\book-store.csproj": {
+    "C:\\Users\\orhan\\Desktop\\project\\book-store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\orhan\\Desktop\\project\\book-store.csproj",
+        "projectUniqueName": "C:\\Users\\orhan\\Desktop\\project\\book-store.csproj",
         "projectName": "book-store",
-        "projectPath": "c:\\Users\\orhan\\Desktop\\project\\book-store.csproj",
+        "projectPath": "C:\\Users\\orhan\\Desktop\\project\\book-store.csproj",
         "packagesPath": "C:\\Users\\orhan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\orhan\\Desktop\\project\\obj\\",
+        "outputPath": "C:\\Users\\orhan\\Desktop\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

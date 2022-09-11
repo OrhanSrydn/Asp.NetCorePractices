@@ -35,10 +35,13 @@ namespace book_store.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id){
             GetBooksByIDCommand cmd = new GetBooksByIDCommand(_context, _mapper);
+            GetBooksByIDValidator validator = new GetBooksByIDValidator();
             BookDetailViewModel result;
             try
             {
                 cmd.Id = id;
+                ValidationResult vr = validator.Validate(cmd);
+                validator.ValidateAndThrow(cmd);
                 result = cmd.Handle();
             }
             catch(Exception ex)
@@ -84,12 +87,14 @@ namespace book_store.Controllers
 
         [HttpPut("{id}")]
         public IActionResult UpdateBook(int id,[FromBody] UpdateBookModel updatedBook){
-
+            UpdateBookCommand ubc = new UpdateBookCommand(_context);
             try
             {
-                UpdateBookCommand ubc = new UpdateBookCommand(_context);
                 ubc.Model = updatedBook;
                 ubc.Id = id;
+                UpdateBookCommandValidator ubcv = new UpdateBookCommandValidator();
+                ValidationResult result = ubcv.Validate(ubc);
+                ubcv.ValidateAndThrow(ubc);
                 ubc.Handle();
             }
             catch(Exception ex)

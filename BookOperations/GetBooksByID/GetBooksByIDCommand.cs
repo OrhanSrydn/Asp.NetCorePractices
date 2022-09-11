@@ -9,6 +9,8 @@ namespace book_store.BookOperations.GetBooksByID
     {
         private readonly BookStoreDBContext _dbContext;
 
+        public BookDetailViewModel Model {get;set;}
+
         private readonly IMapper _mapper;
         public int Id { get; set; }
         public GetBooksByIDCommand(BookStoreDBContext dbContext, IMapper mapper)
