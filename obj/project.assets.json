@@ -893,24 +893,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/orhansrydn/.nuget/packages/": {}
+    "C:\\Users\\orhan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/book-store.csproj",
+      "projectUniqueName": "c:\\Users\\orhan\\Desktop\\project\\book-store.csproj",
       "projectName": "book-store",
-      "projectPath": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/book-store.csproj",
-      "packagesPath": "/Users/orhansrydn/.nuget/packages/",
-      "outputPath": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/",
+      "projectPath": "c:\\Users\\orhan\\Desktop\\project\\book-store.csproj",
+      "packagesPath": "C:\\Users\\orhan\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\orhan\\Desktop\\project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/orhansrydn/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\orhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -972,7 +974,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
