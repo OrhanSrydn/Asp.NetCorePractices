@@ -1,3 +1,4 @@
+using System.Reflection;
 using book_store.DBOperations;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Hosting;
@@ -11,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<BookStoreDBContext>(options => options.UseInMemoryDatabase(databaseName:"BookStoreDB"));
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 var app = builder.Build();
 
