@@ -8,9 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = book_store
 build_property.RootNamespace = book_store
+<<<<<<< HEAD
 build_property.ProjectDir = /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore
+=======
+build_property.ProjectDir = c:\Users\orhan\Desktop\project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\orhan\Desktop\project
+>>>>>>> 17da54ebb7ea3925165478100e9979068f0b8b60
 build_property._RazorSourceGeneratorDebug = 
