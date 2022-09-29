@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/book-store.csproj": {}
+    "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bookstore.csproj": {}
   },
   "projects": {
-    "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/book-store.csproj": {
+    "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/book-store.csproj",
-        "projectName": "book-store",
-        "projectPath": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/book-store.csproj",
+        "projectUniqueName": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bookstore.csproj",
+        "projectName": "bookstore",
+        "projectPath": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bookstore.csproj",
         "packagesPath": "/Users/orhansrydn/.nuget/packages/",
         "outputPath": "/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/",
         "projectStyle": "PackageReference",

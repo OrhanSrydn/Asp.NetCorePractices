@@ -9,6 +9,7 @@ namespace book_store.BookOperations.GetBooks
     {
         private readonly BookStoreDBContext _dbContext;
 
+         public int Id { get; set; }
         private readonly IMapper _mapper;
         public GetBooksQuery(BookStoreDBContext dbContext, IMapper mapper)
         {

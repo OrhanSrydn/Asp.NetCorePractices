@@ -1,0 +1,7 @@
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/bookstore.csproj.AssemblyReference.cache
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/bookstore.AssemblyInfoInputs.cache
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/bookstore.AssemblyInfo.cs
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/bookstore.csproj.CoreCompileInputs.cache
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/bookstore.MvcApplicationPartsAssemblyInfo.cs
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/bookstore.MvcApplicationPartsAssemblyInfo.cache
