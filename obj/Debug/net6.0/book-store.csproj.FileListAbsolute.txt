@@ -90,3 +90,8 @@
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.pdb
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/book-store.genruntimeconfig.cache
 /Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/obj/Debug/net6.0/ref/book-store.dll
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/AutoMapper.dll
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/FluentValidation.dll
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/orhansrydn/Desktop/asp.Net-Core/web-api/bookstore/bin/Debug/net6.0/Newtonsoft.Json.dll

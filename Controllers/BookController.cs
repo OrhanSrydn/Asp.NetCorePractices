@@ -59,29 +59,14 @@ namespace book_store.Controllers
         // }
 
         [HttpPost]
-        public IActionResult AddBook([FromBody] CreateBookModel newBook){
+        public IActionResult AddBook([FromBody] CreateBookModel newBook)
+        {
             CreateBookCommand cmd = new CreateBookCommand(_context, _mapper);
-            try
-            {
                 cmd.Model = newBook;
                 CreateBookCommandValidator validator = new CreateBookCommandValidator();
                 ValidationResult result = validator.Validate(cmd);
                 validator.ValidateAndThrow(cmd);
                 cmd.Handle();
-                // if(!result.IsValid)
-                // foreach(var item in result.Errors)
-                // {
-                //     System.Console.WriteLine("Özellik : " + item.PropertyName + "Error Message : " + item.ErrorMessage);
-                // }
-                // else
-                // {
-                //     cmd.Handle();
-                // }
-            }
-            catch(Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
             return Ok();
         }
 
